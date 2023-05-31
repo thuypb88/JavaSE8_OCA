@@ -1,48 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d534134e-8efa-4067-a8dc-6fec10edfd20" name="Changes" comment="Init">
-      <change afterPath="$PROJECT_DIR$/src/Chapter06/StringClassExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaExceptionExamples/MyException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaExceptionExamples/Retread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practiceTest1/Question_13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practiceTest1/Question_14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practiceTest1/Question_15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practiceTest1/Question_16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practiceTest1/Question_17.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practiceTest1/Question_18.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practiceTest1/Question_19.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practiceTest1/Question_20.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practiceTest1/Question_21.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practiceTest1/Question_22.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practiceTest1/Question_23.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practiceTest1/Question_24.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practiceTest1/Question_25.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practiceTest1/Question_26.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practiceTest1/Question_27.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practiceTest1/Question_28.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practiceTest1/Question_29.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practiceTest1/Question_30.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practiceTest1/Question_31.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practiceTest1/Question_32.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practiceTest1/Question_33.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practiceTest1/Question_34.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practiceTest1/Question_35.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practiceTest1/Question_36.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practiceTest1/Question_37.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practiceTest1/Question_38.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practiceTest1/Question_39.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practiceTest2/Question_01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practiceTest2/Question_02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practiceTest2/Question_03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practiceTest2/Question_04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/simulationSet01/Q3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/simulationSet01/Q4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/simulationSet01/Q5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/simulationSet01/Q6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/simulationSet01/Q7.java" afterDir="false" />
+    <list default="true" id="d534134e-8efa-4067-a8dc-6fec10edfd20" name="Changes" comment="Update">
+      <change afterPath="$PROJECT_DIR$/src/Set1/Q1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Set1/Q2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Set1/Q3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Set1/Q4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Set1/Q5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Set1/Q6.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simulationSet01/Q2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simulationSet01/Q2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,18 +48,19 @@
       <recent name="F:\AUT\Java\JavaSE8_OCA\src\practiceTest1" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Set1" />
       <recent name="practiceTest2" />
       <recent name="practiceTest1" />
       <recent name="simulationSet01" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Question_04">
-    <configuration name="Question_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practiceTest2.Question_01" />
+  <component name="RunManager" selected="Application.Q5">
+    <configuration name="Q1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Set1.Q1" />
       <module name="JavaSE8_OCA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practiceTest2.*" />
+          <option name="PATTERN" value="Set1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,12 +68,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Question_02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practiceTest2.Question_02" />
+    <configuration name="Q2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Set1.Q2" />
       <module name="JavaSE8_OCA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practiceTest2.*" />
+          <option name="PATTERN" value="Set1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,12 +81,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Question_03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practiceTest2.Question_03" />
+    <configuration name="Q4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Set1.Q4" />
       <module name="JavaSE8_OCA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practiceTest2.*" />
+          <option name="PATTERN" value="Set1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Set1.Q5" />
+      <module name="JavaSE8_OCA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Set1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,26 +120,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Question_38" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practiceTest1.Question_38" />
-      <module name="JavaSE8_OCA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="practiceTest1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Q5" />
+        <item itemvalue="Application.Q4" />
+        <item itemvalue="Application.Q2" />
+        <item itemvalue="Application.Q1" />
         <item itemvalue="Application.Question_04" />
-        <item itemvalue="Application.Question_03" />
-        <item itemvalue="Application.Question_02" />
-        <item itemvalue="Application.Question_01" />
-        <item itemvalue="Application.Question_38" />
       </list>
     </recent_temporary>
   </component>
@@ -179,7 +146,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678412662864</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Update">
+      <created>1680597925211</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1680597925211</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -195,6 +169,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Init" />
-    <option name="LAST_COMMIT_MESSAGE" value="Init" />
+    <MESSAGE value="Update" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update" />
   </component>
 </project>
