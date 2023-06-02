@@ -2,13 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d534134e-8efa-4067-a8dc-6fec10edfd20" name="Changes" comment="Update">
-      <change afterPath="$PROJECT_DIR$/documents/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/documents/Session_05.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/documents/StudyPlan.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/documents/chapter_01.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/documents/chapter_03.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/documents/chapter_06.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Set1/Q7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Set1/Q10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Set1/Q11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Set1/Q8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Set1/Q9.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,11 +37,12 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "F:/AUT/Java/JavaSE8_OCA/documents"
+    "last_opened_file_path": "F:/AUT/Java/JavaSE8_OCA/src/Set1"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\AUT\Java\JavaSE8_OCA\src\Set1" />
       <recent name="F:\AUT\Java\JavaSE8_OCA\documents" />
       <recent name="F:\AUT\Java\JavaSE8_OCA\src\simulationSet01" />
       <recent name="F:\AUT\Java\JavaSE8_OCA\src\practiceTest1" />
@@ -56,9 +54,9 @@
       <recent name="simulationSet01" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Q7">
-    <configuration name="Q1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Set1.Q1" />
+  <component name="RunManager" selected="Application.Q11">
+    <configuration name="Q11 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Set1.Q11" />
       <module name="JavaSE8_OCA" />
       <extension name="coverage">
         <pattern>
@@ -70,8 +68,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Set1.Q2" />
+    <configuration name="Q11 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Set1.Q11" />
       <module name="JavaSE8_OCA" />
       <extension name="coverage">
         <pattern>
@@ -83,8 +81,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Set1.Q4" />
+    <configuration name="Q11 (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Set1.Q11" />
       <module name="JavaSE8_OCA" />
       <extension name="coverage">
         <pattern>
@@ -96,8 +94,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Set1.Q5" />
+    <configuration name="Q11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Set1.Q11" />
       <module name="JavaSE8_OCA" />
       <extension name="coverage">
         <pattern>
@@ -109,8 +107,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Set1.Q7" />
+    <configuration name="Q9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Set1.Q9" />
       <module name="JavaSE8_OCA" />
       <extension name="coverage">
         <pattern>
@@ -124,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Q7" />
-        <item itemvalue="Application.Q5" />
-        <item itemvalue="Application.Q4" />
-        <item itemvalue="Application.Q2" />
-        <item itemvalue="Application.Q1" />
+        <item itemvalue="Application.Q11" />
+        <item itemvalue="Application.Q11 (3)" />
+        <item itemvalue="Application.Q11 (2)" />
+        <item itemvalue="Application.Q11 (1)" />
+        <item itemvalue="Application.Q9" />
       </list>
     </recent_temporary>
   </component>
@@ -155,7 +153,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680597925211</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Update">
+      <created>1685598864786</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1685598864789</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -173,5 +178,16 @@
     <MESSAGE value="Init" />
     <MESSAGE value="Update" />
     <option name="LAST_COMMIT_MESSAGE" value="Update" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Set1/Q9.java</url>
+          <line>107</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
