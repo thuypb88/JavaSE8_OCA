@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d534134e-8efa-4067-a8dc-6fec10edfd20" name="Changes" comment="Update">
+      <change afterPath="$PROJECT_DIR$/documents/chapter_05.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Set1/Q_16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Set1/Q_17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Set1/Q_18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Set1/Q_19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Set1/Q_20.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/documents/chapter_06.md" beforeDir="false" afterPath="$PROJECT_DIR$/documents/chapter_06.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Set1/Q_14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Set1/Q_14.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,18 +34,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;F:/AUT/Java/JavaSE8_OCA/src/Set1&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "F:/AUT/Java/JavaSE8_OCA/documents"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\AUT\Java\JavaSE8_OCA\src\Set1" />
       <recent name="F:\AUT\Java\JavaSE8_OCA\documents" />
+      <recent name="F:\AUT\Java\JavaSE8_OCA\src\Set1" />
       <recent name="F:\AUT\Java\JavaSE8_OCA\src\simulationSet01" />
       <recent name="F:\AUT\Java\JavaSE8_OCA\src\practiceTest1" />
     </key>
@@ -52,61 +56,9 @@
       <recent name="simulationSet01" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Q_15">
-    <configuration name="Q11 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Set1.Q11" />
-      <module name="JavaSE8_OCA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Set1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Q_20">
     <configuration name="Q11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Set1.Q11" />
-      <module name="JavaSE8_OCA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Set1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Q11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Set1.Q11" />
-      <module name="JavaSE8_OCA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Set1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Q_13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Set1.Q_13" />
-      <module name="JavaSE8_OCA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Set1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Q_14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Set1.Q_14" />
       <module name="JavaSE8_OCA" />
       <extension name="coverage">
         <pattern>
@@ -131,13 +83,65 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Q_16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Set1.Q_16" />
+      <module name="JavaSE8_OCA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Set1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q_17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Set1.Q_17" />
+      <module name="JavaSE8_OCA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Set1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q_18" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Set1.Q_18" />
+      <module name="JavaSE8_OCA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Set1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q_20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Set1.Q_20" />
+      <module name="JavaSE8_OCA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Set1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Q_20" />
+        <item itemvalue="Application.Q_18" />
+        <item itemvalue="Application.Q_17" />
+        <item itemvalue="Application.Q_16" />
         <item itemvalue="Application.Q_15" />
-        <item itemvalue="Application.Q_14" />
-        <item itemvalue="Application.Q_13" />
-        <item itemvalue="Application.Q11" />
-        <item itemvalue="Application.Q11 (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -185,7 +189,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685700722031</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Update">
+      <created>1686127687777</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1686127687777</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
